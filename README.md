@@ -2,16 +2,16 @@
 
 ## Intent
 
-Self-study of MIT's 18.06 (Gilbert Strang), done independently as the mathematical foundation underneath the CV/ML/LLM work in the [CS231n](#) and [CS336](#) repos. Goal is to be properly fluent in the linear algebra that shows up constantly in deep learning — matrix decompositions, eigenvalues, vector spaces — at a derivation level, not just "I can call `torch.linalg`."
+Self-study of MIT's 18.06 (Gilbert Strang), done independently as the mathematical foundation underneath the CV/ML/LLM work in the [CS231n](#) and [CS336](#) repos. Goal is to be properly fluent in the linear algebra that shows up constantly in deep learning — matrix decompositions, eigenvalues, vector spaces — at a derivation level
 
-Base material is [juanklopper's MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) notebooks, imported and worked through/extended here.
+Planning to leverage [juanklopper's MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) notebooks.
 
 ## Course resources
 
 - MIT OCW 18.06: [ocw.mit.edu/courses/18-06-linear-algebra-spring-2010](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - Lecture videos (Strang): [MIT OCW YouTube playlist](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 - Strang's textbook: *Introduction to Linear Algebra*
-- Base notebooks: [juanklopper/MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06)
+- Notebooks: [juanklopper/MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06)
 
 ## Repo structure
 
